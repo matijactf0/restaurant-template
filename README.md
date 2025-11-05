@@ -1,4 +1,4 @@
-# La Vigna Restaurant Website
+# Template Restaurant Website
 
 A modern, elegant restaurant website featuring a sophisticated design with full menu showcase, customer reviews, and reservation system. Built with HTML5, CSS3, and Tailwind CSS for a responsive and professional dining experience.
 
@@ -74,10 +74,10 @@ restaurant-website/
 
 \`\`\`bash
 # Clone the repository
-git clone https://github.com/yourusername/la-vigna-restaurant.git
+git clone https://github.com/matijactf0/restaurant-template.git
 
 # Navigate to project directory
-cd la-vigna-restaurant
+cd restaurant-template
 
 # Open in browser
 open index.html
@@ -154,7 +154,7 @@ Replace images in `assets/images/` with your own:
 
 ## License
 
-This project is open source and available under the MIT License.
+This project is open source.
 
 ## Credits
 
@@ -167,7 +167,6 @@ This project is open source and available under the MIT License.
 
 For questions or support, please contact:
 - Website: [matke.dev](https://matke.dev)
-- Email: contact@lavigna-restaurant.com
 
 ---
 
