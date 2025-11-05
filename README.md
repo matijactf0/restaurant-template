@@ -38,24 +38,6 @@ A modern, elegant restaurant website featuring a sophisticated design with full 
 - **JavaScript** - Interactive modal and smooth scrolling
 - **SVG Graphics** - Scalable vector illustrations
 
-## Project Structure
-
-\`\`\`
-restaurant-website/
-├── index.html              # Main HTML file
-├── README.md              # Project documentation
-└── assets/
-    └── images/
-        ├── wine-tasting.svg    # Hero section illustration
-        ├── chef.svg            # About section illustration
-        ├── hamburger.svg       # Menu section illustration
-        ├── online-review.svg   # Reviews section illustration
-        ├── food-1.jpg          # Gourmet Appetizer Platter
-        ├── food-2.jpg          # Korean BBQ Beef Sizzler
-        ├── food-3.jpg          # Artisan Pizza
-        └── food-4.jpg          # Premium Burger
-\`\`\`
-
 ## Menu Items Featured
 
 ### Appetizers
